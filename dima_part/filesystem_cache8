@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713048404
+icon.svg::CompressedTexture2D::6791324011137162998::1712345960::1712345966::1::::<><>::
+lessgo.txt::TextFile::-1::1713037804::0::1::::<><>::
+main.tscn::PackedScene::3122732360355086359::1713048337::0::1::::<><>::uid://cw38x5y7c8h1m::::res://Assets/house11.png<>uid://c0bi3cfvsosps::::res://Assets/bg.png<>uid://bwa2ptv81m5qt::::res://Assets/furniture-export1.png
+::res://Assets/::1713030585
+bg.png::CompressedTexture2D::6530162688012032200::1712954616::1712954640::1::::<><>::
+furniture1-export.png::CompressedTexture2D::7991113558056540513::1713030080::1713030095::1::::<><>::
+furniture-export1.png::CompressedTexture2D::3932242421362247563::1713030432::1713030585::1::::<><>::
+house2-export.png::CompressedTexture2D::9082530752356531733::1712952681::1712952850::1::::<><>::
+house11.png::CompressedTexture2D::6376844852791416772::1712402281::1712402301::1::::<><>::
+::res://dima_part/::1713037804
+README.txt::TextFile::-1::1713037804::0::1::::<><>::
+::res://egor_part/::1713037804
+README.txt::TextFile::-1::1713037804::0::1::::<><>::
+::res://theo_part/::1713037804
